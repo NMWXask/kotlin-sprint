@@ -1,5 +1,8 @@
 package ru.vtb.msa.lesson_1
 
-fun main(){
-    println("Тестовое решение к уроку 1 задача 1")
+fun main() {
+    val orderCount = 10;
+    val comment = "great order";
+  println(orderCount)
+  println(comment)
 }
